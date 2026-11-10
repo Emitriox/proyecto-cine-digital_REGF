@@ -1,0 +1,10 @@
+PROYECTO INTEGRADOR - DÍA 3: DISEÑO DE INTERFAZ
+
+1. Estructura Visual en Consola:
+Se diseñó un menú interactivo limpio y organizado en consola, utilizando títulos claros y separadores estéticos.
+- Leyenda de la sala:
+  * [O] = Asiento Libre / Disponible
+  * [X] = Asiento Ocupado / Reservado
+
+2. Control de Excepciones de Interfaz:
+Se implementó validación de tipos de datos (usando int.TryParse) para evitar que la aplicación colapse o se cierre inesperadamente si el usuario ingresa letras o símbolos en lugar de opciones numéricas.
