@@ -1,0 +1,16 @@
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\CineDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\CineDigital.AssemblyInfoInputs.cache
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\CineDigital.AssemblyInfo.cs
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\CineDigital.csproj.CoreCompileInputs.cache
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\bin\Debug\net10.0\CineDigital.exe
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\bin\Debug\net10.0\CineDigital.deps.json
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\bin\Debug\net10.0\CineDigital.runtimeconfig.json
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\bin\Debug\net10.0\CineDigital.runtimeconfig.dev.json
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\bin\Debug\net10.0\CineDigital.dll
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\bin\Debug\net10.0\CineDigital.pdb
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\CineDigital.dll
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\refint\CineDigital.dll
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\CineDigital.pdb
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\CineDigital.genruntimeconfig.cache
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\ref\CineDigital.dll
+C:\Users\rubem\OneDrive\Desktop\UACyTI\Estructura de datos\CineDigital\CineDigital\obj\Debug\net10.0\CineDigi.748E68CE.Up2Date
